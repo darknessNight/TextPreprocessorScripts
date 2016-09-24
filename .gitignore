@@ -1,0 +1,4 @@
+*.pyc
+*.suo
+**/__pycache__/*
+.vs/*
